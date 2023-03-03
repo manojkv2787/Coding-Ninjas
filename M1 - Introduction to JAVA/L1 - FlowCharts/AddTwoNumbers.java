@@ -4,8 +4,8 @@ public class AddTwoNumbers {
 
 	public static void main(String[] args) {
 		double a = 6 / 4;
-        int b  = 6 / 4;
-        double c = a + b;
-        System.out.println(c);
+		int b  = 6 / 4;
+		double c = a + b;
+		System.out.println(c);
 	}
 }
