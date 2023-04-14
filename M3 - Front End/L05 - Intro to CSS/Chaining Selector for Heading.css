@@ -1,0 +1,34 @@
+/*-----header-----*/
+#main-header {
+    height: 400px;
+}
+
+#about-site {
+    color: grey;
+}
+
+
+
+/*-----main-----*/
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: darkslategrey;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: monospace;
+}
+
+p {
+    color: dimgrey;
+}
+
+#blog-content {
+    width: 1000px;
+}
+
+.h-style {
+    color: darkslategrey;
+}
