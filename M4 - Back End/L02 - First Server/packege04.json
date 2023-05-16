@@ -1,0 +1,12 @@
+{
+    "name": "L02 - First Server",
+    "version": "1.0.0",
+    "description": "my first server",
+    "main": "index04.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Manoj K V",
+    "license": "ISC"
+  }
+  
